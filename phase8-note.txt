@@ -1,0 +1,1 @@
+Phase 8 archive intelligence is integrated through phase8-data.js and phase8-init.js. This marker documents the controlled integration without changing existing application logic.
