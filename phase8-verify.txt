@@ -1,0 +1,1 @@
+Phase 8 verification marker: archive data and bootstrap are intentionally isolated from existing application logic.
